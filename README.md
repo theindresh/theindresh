@@ -64,16 +64,6 @@
    <img src="https://github-profile-trophy.vercel.app/?username=theindresh&theme=onedark" alt="GitHub trophies"/>
 </p>
 
----
-
-## 📝 Latest Blog Posts:
-
-- [How to Build an Awesome React App from Scratch](https://yourblog.com/post1)
-- [Mastering JavaScript in 2023: The Essential Guide](https://yourblog.com/post2)
-- [Why FullStack Development is the Future](https://yourblog.com/post3)
-
----
-
 ## 🔥 Fun Fact:
 
 I believe in the power of creativity mixed with logic! Aside from coding, I enjoy stand-up comedy, and sometimes I write code just like I write jokes—punchy and to the point! 😄
