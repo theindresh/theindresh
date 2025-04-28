@@ -1,69 +1,88 @@
-<h1 align="center">Hi 👋, I'm Indresh Bharati</h1>
-<h3 align="center">A Passionate Full Stack Developer from India 🚀</h3>
+<h1 align="center">Hey 👋, I'm Indresh Bharati</h1>
+<h3 align="center">🚀 Full Stack Developer | React Enthusiast | Problem Solver from India 🇮🇳</h3>
+
+<br />
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400"/>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding-gif" width="400" />
 </p>
+
+---
+
+### 🚀 About Me
+
+- 🔥 Passionate Full Stack Developer building impactful web applications.
+- 🎯 Currently focused on **React.js**, **Node.js**, and **Full Stack Projects**.
+- 💡 Love solving real-world problems through elegant code and smart UI/UX.
+
+---
+
+### 💼 Projects I'm Proud Of
+
+- 🛒 **[Boat Clone](#)** — An e-commerce clone inspired by Boat.
+- 🛠️ **[Vendor Portal Zamplia](https://vendor.zamplia.com)** — Vendor Management System.
+- ⚖️ **[XbeanLegal](https://xbinlegal.pandoconsultants.com)** — Legal management made easy.
+- 🌐 **[Zamplia](https://zamplia.com)** — Complete Vendor Service Portal.
+
+---
+
+### 📚 Currently Learning
+
+- React.js (Advanced Concepts 🚀)
+- Node.js (Backend API Development)
+
+---
+
+### 💬 Ask Me About
+
+- React | JavaScript | Full Stack Development | Problem Solving | Web Performance Optimization
+
+---
+
+### 📫 Let's Connect
+
+<p align="left">
+  <a href="mailto:indreshbharati77@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/indresh-bharati-24775a202/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/theindresh">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages and Tools
 
 <p align="center">
-   I'm a driven Full Stack Developer with a passion for building web applications that solve real-world problems. Currently, I'm diving deep into React.js and working on exciting projects like the <strong>Boat Clone</strong>, along with other projects such as <strong>Vendor Portal Zamplia</strong>, <strong>XbeanLegal</strong>, and <strong>Student Corner</strong>. My goal is to constantly improve and stay at the forefront of web development technology!
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,mysql,mongodb,git" alt="Skills" />
 </p>
 
 ---
 
-## 🔭 Projects I'm Currently Working On:
+### 📈 GitHub Stats
 
-- [**Boat Clone**](#), an e-commerce platform inspired by Boat.
-- [**Vendor Portal Zamplia**](https://vendor.zamplia.com), a vendor management system.
-- [**XbeanLegal**](https://xbinlegal.pandoconsultants.com), a legal management platform.
-- [**Zamplia**](https://zamplia.com), a comprehensive portal for vendor services.
-
-## 🌱 Currently Learning:
-
-- React.js and Node.js
-
-## 💬 Ask Me About:
-
-- **React**, **JavaScript**, **Full Stack Development**
-
-## 📫 How to Reach Me:
-
-[![Gmail Badge](https://img.shields.io/badge/-indreshbharati77@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:indreshbharati77@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-Indresh%20Bharati-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/indresh-bharati-24775a202/)
-[![GitHub Badge](https://img.shields.io/badge/-theindresh-181717?style=flat&logo=github&logoColor=white)](https://github.com/theindresh)
-
----
-
-## 💻 Languages and Tools:
-
-<p align="left">
-   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=theindresh&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="Indresh's GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theindresh&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 📊 GitHub Stats:
+### 🏆 GitHub Trophies
 
-<p align="left">
-   <img src="https://github-readme-stats.vercel.app/api?username=theindresh&show_icons=true&theme=radical" alt="GitHub stats"/>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=theindresh&theme=radical" alt="GitHub streak"/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=theindresh&theme=dracula&no-frame=true&row=2&column=4" alt="Trophies" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies:
+### 🎉 Fun Fact
 
-<p align="left">
-   <img src="https://github-profile-trophy.vercel.app/?username=theindresh&theme=onedark" alt="GitHub trophies"/>
-</p>
+> When I’m not coding, I’m either cracking jokes like a stand-up comedian or planning my next big idea. I love writing code that's clean, efficient, and sometimes... **hilarious**! 😄
 
-## 🔥 Fun Fact:
-
-I believe in the power of creativity mixed with logic! Aside from coding, I enjoy stand-up comedy, and sometimes I write code just like I write jokes—punchy and to the point! 😄
+---
